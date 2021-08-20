@@ -364,6 +364,7 @@
     <MainPackageIdentityName>38609Syntax-TM.RetroArchSyntax-TM</MainPackageIdentityName>
     <ReservedNames>
       <ReservedName>RetroArch (Syntax-TM)</ReservedName>
+      <ReservedName>RetroArch (Dev)</ReservedName>
     </ReservedNames>
   </ProductReservedInfo>
   <AccountPackageIdentityNames />
